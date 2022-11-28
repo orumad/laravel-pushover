@@ -2,8 +2,13 @@
 
 All notable changes to `pushover` will be documented in this file.
 
+## 3.0.1 - 2022-11-28
+- Forked from original [https://github.com/laravel-notification-channels/pushover]() due the lack of Laravel 9 compatibility.
+- Added support for Laravel 9
+- Applied PR #51 (from original repo)
+
 ## 2.0.0 - 2019-06-12
-- Add support for Laravel 5.8 (PR #30) 
+- Add support for Laravel 5.8 (PR #30)
 
 ## 1.2.3 - 2018-09-25
 - Add support for Laravel 5.7 (PR #25)
